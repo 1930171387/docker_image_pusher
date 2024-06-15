@@ -8,3 +8,4 @@ postgres:latest
 jellyfin/jellyfin:2024061005
 altran1502/immich-server:v1.106.4
 xiaoyaliu/alist:latest
+xiaoyaliu/alist:hostmode
