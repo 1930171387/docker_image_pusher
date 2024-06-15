@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 postgres:latest
-pgvecto-rs:pg16-v0.0.0-nightly.20240607-rootless
+jellyfin/jellyfin:2024061005
