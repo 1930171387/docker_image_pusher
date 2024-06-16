@@ -10,3 +10,4 @@ altran1502/immich-server:v1.106.4
 xiaoyaliu/alist:latest
 xiaoyaliu/alist:hostmode
 emby/embyserver:beta
+ddsderek/xiaoya-emd:latest
