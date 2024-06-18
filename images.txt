@@ -12,3 +12,4 @@ xiaoyaliu/alist:hostmode
 emby/embyserver:beta
 ddsderek/xiaoya-emd:latest
 amilys/embyserver:4.9.0.23
+amilys/embyserver:4.9.0.22
